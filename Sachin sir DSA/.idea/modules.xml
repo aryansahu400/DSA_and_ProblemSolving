@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CP/CP.iml" filepath="$PROJECT_DIR$/CP/CP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListBabbar/LinkedListBabbar.iml" filepath="$PROJECT_DIR$/LinkedListBabbar/LinkedListBabbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recurrsion/Recurrsion.iml" filepath="$PROJECT_DIR$/Recurrsion/Recurrsion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sachin sir DSA.iml" filepath="$PROJECT_DIR$/Sachin sir DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingAlgorithms/SortingAlgorithms.iml" filepath="$PROJECT_DIR$/SortingAlgorithms/SortingAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackBabbar/StackBabbar.iml" filepath="$PROJECT_DIR$/StackBabbar/StackBabbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringsProblems/StringsProblems.iml" filepath="$PROJECT_DIR$/StringsProblems/StringsProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoDimensionalArray/TwoDimensionalArray.iml" filepath="$PROJECT_DIR$/TwoDimensionalArray/TwoDimensionalArray.iml" />
+    </modules>
+  </component>
+</project>
